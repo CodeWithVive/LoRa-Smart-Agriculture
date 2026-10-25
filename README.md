@@ -57,3 +57,14 @@ GitHub: [CodeWithVive](https://github.com/CodeWithVive)
 
 ---
 ⭐ If you find this project useful, feel free to explore the repository.
+
+## 📸 Project Screenshots
+
+### Circuit Diagram
+![Wokwi Circuit](wokwi-circuit.png.png)
+
+### Normal Dashboard
+![Normal Dashboard](dashboard-normal.png.png)
+
+### Low Soil Moisture Alert
+![Alert Dashboard](dashboard-alert.png.png)
